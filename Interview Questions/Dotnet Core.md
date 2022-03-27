@@ -103,3 +103,10 @@ app.Run(async context =>
  - Transient objects are always different; a new instance is provided to every controller and every service.
  - Scoped objects are the same within a request, but different across different requests.
  - Singleton objects are the same for every object and every request.
+
+# Run vs Use Vs Map
+ - Run - Terminates chain. No other middleware method will run after this. Should be placed at the end of any pipeline.
+ - Use - Performs action before and after next delegate.
+ - MapWhen - Enables branching pipeline. Runs specified middleware if condition is met.
+ - Map - Similar to MapWhen. Runs middleware if path requested by user equals path provided in parameter.
+
