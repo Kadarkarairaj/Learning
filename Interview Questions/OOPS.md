@@ -59,3 +59,6 @@ There are two types of polymorphism
 - Secondly, abstractions should not depend upon details. Details should depend upon abstractions
 
 More details: https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
+
+# Design Patterns
+https://refactoring.guru/design-patterns
