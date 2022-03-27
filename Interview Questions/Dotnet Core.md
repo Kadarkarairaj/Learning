@@ -52,9 +52,7 @@ Your app can also use dependency injection in view files, using the @inject dire
 
 # ASP.NET MVC 5 Life Cycle
 
-https://i0.wp.com/dotnettekki.com/wp-content/uploads/2018/05/mvc-page-lifecycle.jpg?w=684&ssl=1
-
-https://opdhsblobprod04-secondary.blob.core.windows.net/contents/ed5efb1947c04bb29402a0c08d68958e/bc506ce9d055bfc05f1ff35ac9dc2e5b?skoid=29100048-1fa1-4ada-b0e0-e2aa294fc66a&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2022-03-15T06%3A45%3A37Z&ske=2022-03-22T06%3A50%3A37Z&sks=b&skv=2020-08-04&sv=2020-08-04&se=2022-03-20T04%3A39%3A37Z&sr=b&sp=r&sig=DyOKOUd4ZHFD%2Bh7hWpwEhNjvUDoAOqK170Cm5QI6AGE%3D
+![ASP.NET MVC 5 Life Cycle] (https://i0.wp.com/dotnettekki.com/wp-content/uploads/2018/05/mvc-page-lifecycle.jpg?w=684&ssl=1)
 
 # Common Web Application Architectures
 
