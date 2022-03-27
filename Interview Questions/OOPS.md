@@ -19,10 +19,10 @@ There are four principles in OOPS.
 ## Inheritance
 - Inheritance is the process of acquiring all the properties and methods of parent class into child class.
 
-- Single 
-- Multilevel
-- Hierarchical
-- Multiple
+1. Single 
+2. Multilevel
+3. Hierarchical
+4. Multiple
 
 ## Polymorphism
 - Polymorphism means one name, many forms.
