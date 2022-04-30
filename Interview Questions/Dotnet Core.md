@@ -110,3 +110,6 @@ app.Run(async context =>
  - MapWhen - Enables branching pipeline. Runs specified middleware if condition is met.
  - Map - Similar to MapWhen. Runs middleware if path requested by user equals path provided in parameter.
 
+# Generic Constraints
+# Meta Pacakge
+# Json files name of .Net Core
